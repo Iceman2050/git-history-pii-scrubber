@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.bundle
+.pytest_cache/
+.hypothesis/
+demo-output.txt
